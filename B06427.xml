@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The victory over the fleet of the States General, obtained by His Majesties Navy Royal in the late engagement, begun the 25. of July instant. / As it came from His Highness Prince Rupert, and His Grace the Duke of Albemarle. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06427</idno>
+            <idno type="STC">Wing V350</idno>
+            <idno type="STC">ESTC R185981</idno>
+            <idno type="EEBO-CITATION">52612373</idno>
+            <idno type="OCLC">ocm 52612373</idno>
+            <idno type="VID">179703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179703)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2797:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The victory over the fleet of the States General, obtained by His Majesties Navy Royal in the late engagement, begun the 25. of July instant. / As it came from His Highness Prince Rupert, and His Grace the Duke of Albemarle. Published by authority.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within double-line border.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1664-1667 --  Naval operations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History, Naval --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179703:1" rendition="simple:additions"/>
+            <p>THE VICTORY OVER THE FLEET OF THE STATES GENERAL, OBTAINED BY HIS MAJESTIES NAVY ROYAL IN THE LATE ENGAGEMENT, Begun the 25. of <hi>July</hi> inſtant.</p>
+            <p>As it came from his Highneſs Prince <hi>Rupert,</hi> and His Grace the Duke of <hi>Albemarle.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Command.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh,</hi> 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179703:2"/>
+            <pb n="3" facs="tcp:179703:2"/>
+            <head>
+               <hi>THE VICTORY</hi> Over the Fleet of the States General, obtained by His <hi>Majeſties</hi> Navy Royal in the late Engagement, begun the <hi>25. July</hi> inſtant.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>
+                  <g ref="char:V">Ʋ</g>nday</hi> 22. inſtant, not without difficulty, we got the Fleet through the <hi>Narrow;</hi> about Six in the Evening we came to an Anchor ſhort of the <hi>Buoy</hi> in the <hi>Gunfleet,</hi> within Six Leagues of the Enemy, who came to an Anchor off of the <hi>Sledway.</hi>
+            </p>
+            <p>
+               <hi>Monday</hi> 23. Both Fleets weighed, and plyed to and again with little VVind, and that Night proved very Tempeſtuous.</p>
+            <p>
+               <hi>Tueſday</hi> 24. It blew hard, and we were forced to keep to an Anchor till about Two in the Afternoon, and then ſtood off to the Eaſtward, and Anchored about eight Leagues from the <hi>Neſſe.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:179703:3"/>VVedneſday 25. By two in the morn<g ref="char:EOLhyphen"/>ing we weighed Anchor, and by Day<g ref="char:EOLhyphen"/>light we had the Enemy under our Lee: Sir <hi>Thomas Allen</hi> led the Van to the Eaſt<g ref="char:EOLhyphen"/>ward, with our Larboard Tacks aboard, the VVind North-Eaſt; and as ſoon as he came to the head of the Enemies Fleet, which was at ten of the Clock, we gave the Signal to bear in in a Line, our ſelves with the Red Squadron in the middle, and Sir <hi>Jeremy Smith</hi> with the Blew, bringing up the Rear. VVe plyed them ſo cloſe, that they could not Tack upon us; and ſo we continued fighting till about four in the Afternoon, and then <hi>De Ruyter</hi> with the main Body of his Fleet gave ground, whom we purſued with the Red and VVhite Squadrons, leaving Sir <hi>Jeremy Smith</hi> with the Blew Squadron, engaged with <hi>Van Tromp</hi> and a Squadron of their Fleet. All Night we followed the Enemy, and again next Morning as ſoon as it was light we began the Chace, and were in great hopes of taking <hi>De Ruyter;</hi> but the VVind being little, he ſpoomed away be<g ref="char:EOLhyphen"/>fore it, ſo that our ſmaller Fregats could hardly get up with him. And by Ten a
+<pb n="5" facs="tcp:179703:3"/>
+Clock Thurſday Morning, we had purſu<g ref="char:EOLhyphen"/>ed them as far as the <hi>Durlow,</hi> which was about Eighteen Leagues, and there he lay till About two in the Afternoon; which time we were ſo near the Banks of Sand, that we could not make the Chace any farther, and <hi>De Ruyter,</hi> and thoſe with him, had opportunity to run into that place.</p>
+            <p>In this Chaſe we poſſeſſed us of Two of the Enemies Great Ships, the one a Vice-Admiral of 60 Guns, 24 of them Braſs, and 290 Men, commanded by <hi>Adrian Bankaert;</hi> The other the <hi>Snake</hi> of <hi>Haer<g ref="char:EOLhyphen"/>lem,</hi> of 66 Guns, 320 Men, Command<g ref="char:EOLhyphen"/>ed by <hi>Ruart Hellibrant;</hi> both which we ſet on fire, not being willing to ſpare any Men to bring them off, after we had ta<g ref="char:EOLhyphen"/>ken all their Men out of them. As ſoon as we gave off purſuit of the Enemy, we called a Council of Flag-Officers, and whilſt they were with us, we diſcovered ſome Sails N. W. of us, and heard a ſhooting, which we judged to be Sir <hi>Je<g ref="char:EOLhyphen"/>remiah Smith</hi> fighting <hi>Van Trump</hi> and his Squadron: Whereupon we determined to draw off the Fleet, and ſo endeavour
+<pb n="6" facs="tcp:179703:4"/>
+to intercept them before they got into their Harbours.</p>
+            <p>Upon the Appearance of theſe Fleets, we found the Wind at N. E. they ſtand<g ref="char:EOLhyphen"/>ing right in, and we right out, as cloſe as we could lye, and ſtood up till we could ſee their Squadron, and Sir <hi>Jeremiah Smith</hi> chaſing of them: After we came fair up with them, we Tacked, and ſtood in the ſame way that they did; and about Twelve a Clock at night, came to an Anchor, taking part of the Leeward Tide, to draw them upon us; which fell out within a League, as we expected it: But by the morning we perceived Sir <hi>Jeremiah Smith</hi> had loſt <hi>Van Trump</hi> in the Night, and was now out of ſight; ſo as the VVind having varied to the Ene<g ref="char:EOLhyphen"/>mies Advantage, they ſtood into the Land of the Iſland of <hi>Schawen,</hi> towards the <hi>Baniarts,</hi> and we ſtood in after them with the <hi>Royal Charles,</hi> to ſix Fathom VVater, where now we are expecting what the Enemy will do.</p>
+            <p>
+               <hi>This is word for word his Highneſs Prince</hi> Rupert, <hi>and his Grace the Duke
+<pb n="7" facs="tcp:179703:4"/>
+of</hi> Albemarle's <hi>Narrative of this laſt En<g ref="char:EOLhyphen"/>gagement, their Modeſty in relating, equal<g ref="char:EOLhyphen"/>ling their Valour and Conduct in maintain<g ref="char:EOLhyphen"/>ing the Fight; the ſumme of which ſucceſs is, That on the</hi> 25th. <hi>the fight began with equal numbers,</hi> 90 <hi>Men of War, and</hi> 17 <hi>Fireſhips on each ſide; after five hours cloſe fighting, the greateſt body of the Enemy bore away towards their own Coaſt, and on the</hi> 26th. <hi>that body was totally broken, and beat<g ref="char:EOLhyphen"/>en into their Harbours, whither the</hi> 27th. <hi>the reſt followed, broken and beaten in the ſame manner; our Fleet being Maſters, and keeping the Sea, and at this preſent lying upon their Coaſt, with the loſs of one Ship onely burnt, out of which the Captain and the men were ſaved: and this after the Enemy had bragged through the World that they had blocked up our Fleet in the Ri<g ref="char:EOLhyphen"/>ver of</hi> Thames, <hi>and had brought a Land Army with Tooles, and all other Materials to conquer</hi> England, <hi>or at leaſt to ſet it on fire in all parts: What effectually the Enemies loſs was, more then is told herein, as well by Ships burnt as ſunk, of which there can be no Priſoners to tell Particulars, we ſhall know in time, though their Art in diſſem<g ref="char:EOLhyphen"/>bling
+<pb n="8" facs="tcp:179703:5"/>
+them is alwayes admirable; and the diſ-ingenuity of their former Relations hath been ſuch, that we cannot but look that they ſhould ring their Bells, make Bonefires, and ſend Narratives to all the Courts in Chri<g ref="char:EOLhyphen"/>ſtendom of their great ſucceſs now. God grant them more of this kind, and let us thank<g ref="char:EOLhyphen"/>fully proſtrate our ſelves before Him for the great Valour and Conduct of our Generals, and the <g ref="char:V">Ʋ</g>niverſal bravery and vigour with which all the Commanders, Seamen and Soul<g ref="char:EOLhyphen"/>diers fought in this happy occaſion, for the ſervice of their King, and the Honour of His Kingdoms.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
